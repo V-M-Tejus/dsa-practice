@@ -27,7 +27,7 @@ Focus is on clarity, efficiency, and problem-solving patterns.
 
 <h3>📌 Best Practices</h3>
 <ul>
-  <li>Code written in <strong>Python</strong> and <strong>JavaScript</strong>.</li>
+  <li>Code written in <strong>Java</strong>.</li>
   <li>Readable, maintainable, and interview-focused solutions.</li>
   <li>Commit history reflects consistent practice.</li>
 </ul>
